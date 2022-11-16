@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @pjyi2147 Patrick Yi
 - 👀 I’m interested in C++, C#, Rust, Python, Finance, and Algorithms
-- 🌱 I’m currently learning algorithms on [acmicpc.net](acmicpc.net)
+- 🌱 I’m currently learning algorithms on [acmicpc.net](https://acmicpc.net)
 - 💞️ I’m looking to collaborate for anything!
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs990427">
