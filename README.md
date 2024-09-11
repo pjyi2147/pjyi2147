@@ -2,13 +2,4 @@
 
 
 - 👋 Hi, I’m @pjyi2147 Patrick Yi
-- 👀 I’m interested in C++, C#, Rust, Python, Finance, and Algorithms
-- 🌱 I’m currently learning algorithms on [acmicpc.net](https://acmicpc.net)
-- 💞️ I’m looking to collaborate for anything!
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs990427">
-
-<!---
-yjs990427/yjs990427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in C++, CUDA, C#, Rust, Python, Finance, and Algorithms
