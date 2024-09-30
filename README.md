@@ -3,8 +3,6 @@
 - 👋 Hi, I’m @pjyi2147 Patrick Yi
 - 👀 I’m interested in C++, CUDA, C#, Rust, Python, Finance, and Algorithms
 
-<br/>
-
 ## My Tech Stacks
 
 <div align="center">
@@ -19,8 +17,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 </div>
 
-<br/>
-
 ## Wakatime Statistic
 
 <!--START_SECTION:waka-->
@@ -34,8 +30,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-<br/>
 
 ## Connect with me
 
