@@ -21,20 +21,16 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 29 September 2024 - To: 07 October 2024
+```rust
+From: 29 September 2024 - To: 08 October 2024
 
-Total Time: 3 hrs 43 mins
+Total Time: 8 hrs 22 mins
 
-Markdown     52 mins         >>>>>>-------------------   23.24 %
-CSS          45 mins         >>>>>--------------------   20.46 %
-YAML         32 mins         >>>>---------------------   14.53 %
-Bash         29 mins         >>>----------------------   13.26 %
-TypeScript   25 mins         >>>----------------------   11.19 %
-Git Config   12 mins         >------------------------   05.49 %
-INI          8 mins          >------------------------   03.75 %
-TeX          5 mins          >------------------------   02.42 %
-Python       1 min           -------------------------   00.54 %
+Python       3 hrs 34 mins   >>>>>>>>>>---------------   39.23 %
+Bash         1 hr 19 mins    >>>>---------------------   14.49 %
+Markdown     52 mins         >>-----------------------   09.64 %
+CSS          45 mins         >>-----------------------   08.39 %
+Other        44 mins         >>-----------------------   08.21 %
 ```
 
 <!--END_SECTION:waka-->
