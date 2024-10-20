@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_BASE_URL: https://waka.patrickyi.xyz/api/compat/wakatime/v1
+          API_BASE_URL: https://waka.patrickyi.xyz/api/compat/wakatime/
 
           ### content
           SHOW_TITLE: true # optional
@@ -26,7 +26,7 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: JSON Text # optional
 
           ### commit
