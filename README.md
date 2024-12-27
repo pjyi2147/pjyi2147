@@ -25,13 +25,13 @@
 ```rust
 From: 30 September 2024 - To: 26 December 2024
 
-Total Time: 34 hrs 14 mins
+Total Time: 34 hrs 16 mins
 
-Python       16 hrs 14 mins  >>>>>>>>>>>>-------------   47.41 %
-unknown      6 hrs 7 mins    >>>>---------------------   17.88 %
-TeX          2 hrs 30 mins   >>-----------------------   07.29 %
+Python       16 hrs 14 mins  >>>>>>>>>>>>-------------   47.37 %
+unknown      6 hrs 7 mins    >>>>---------------------   17.87 %
+TeX          2 hrs 30 mins   >>-----------------------   07.28 %
 Cuda         2 hrs 15 mins   >>-----------------------   06.58 %
-YAML         1 hrs 46 mins   >------------------------   05.16 %
+YAML         1 hrs 46 mins   >------------------------   05.15 %
 Bash         1 hrs 34 mins   >------------------------   04.58 %
 Markdown     1 hrs 3 mins    >------------------------   03.08 %
 TOML         0 hrs 45 mins   >------------------------   02.17 %
