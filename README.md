@@ -1,4 +1,4 @@
-<img src="https://hits.patrickyi.xyz/api/hit?url=https%3A%2F%2Fgithub.com%2Fpjyi2147&label=Visitors&icon=emoji-heart-eyes-fill&color=%23dc3546">
+[![Badge](https://hits.patrickyi.xyz/api/hit?url=https%3A%2F%2Fgithub.com%2Fpjyi2147&label=Visitors&icon=emoji-heart-eyes-fill&color=%23dc3545)](https://hits.patrickyi.xyz)
 
 - 👋 Hi, I’m @pjyi2147 Patrick Yi
 - 👀 I’m interested in C++, CUDA, C#, Rust, Python, Finance, and Algorithms
