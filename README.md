@@ -23,19 +23,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 September 2024 - To: 16 June 2025
+From: 29 September 2024 - To: 17 June 2025
 
-Total Time: 56 hrs 30 mins
+Total Time: 60 hrs 9 mins
 
-Python            21 hrs 17 mins  >>>>>>>>>----------------   37.69 %
-YAML              8 hrs 14 mins   >>>>---------------------   14.57 %
-unknown           7 hrs 57 mins   >>>>---------------------   14.08 %
-TeX               3 hrs 30 mins   >>-----------------------   06.19 %
-Bash              2 hrs 59 mins   >------------------------   05.27 %
-Cuda              2 hrs 17 mins   >------------------------   04.05 %
-TypeScript        2 hrs 12 mins   >------------------------   03.89 %
-Markdown          1 hrs 45 mins   >------------------------   03.11 %
-TOML              1 hrs 4 mins    -------------------------   01.90 %
+Python            24 hrs 6 mins   >>>>>>>>>>---------------   40.08 %
+unknown           8 hrs 47 mins   >>>>---------------------   14.61 %
+YAML              8 hrs 14 mins   >>>----------------------   13.68 %
+TeX               3 hrs 30 mins   >------------------------   05.81 %
+Bash              2 hrs 58 mins   >------------------------   04.95 %
+Cuda              2 hrs 17 mins   >------------------------   03.80 %
+TypeScript        2 hrs 12 mins   >------------------------   03.66 %
+Markdown          1 hrs 39 mins   >------------------------   02.73 %
+TOML              1 hrs 4 mins    -------------------------   01.78 %
 ```
 
 <!--END_SECTION:waka-->
