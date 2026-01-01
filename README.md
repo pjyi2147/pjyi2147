@@ -23,18 +23,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 September 2024 - To: 30 December 2025
+From: 29 September 2024 - To: 01 January 2026
 
-Total Time: 391 hrs 0 mins
+Total Time: 390 hrs 54 mins
 
-Python            211 hrs 36 mins >>>>>>>>>>>>>>-----------   54.13 %
-Terraform         43 hrs 31 mins  >>>----------------------   11.13 %
+Python            211 hrs 34 mins >>>>>>>>>>>>>>-----------   54.13 %
+Terraform         43 hrs 31 mins  >>>----------------------   11.14 %
 Unknown           37 hrs 15 mins  >>-----------------------   09.53 %
 Markdown          22 hrs 10 mins  >------------------------   05.67 %
-Json              17 hrs 30 mins  >------------------------   04.47 %
+Json              17 hrs 27 mins  >------------------------   04.46 %
 Bash              12 hrs 40 mins  >------------------------   03.24 %
 YAML              11 hrs 30 mins  >------------------------   02.94 %
-Java properties   7 hrs 12 mins   -------------------------   01.84 %
+Java properties   7 hrs 11 mins   -------------------------   01.84 %
 Tex               5 hrs 17 mins   -------------------------   01.35 %
 ```
 
