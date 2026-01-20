@@ -25,9 +25,9 @@
 ```rust
 From: 29 September 2024 - To: 19 January 2026
 
-Total Time: 407 hrs 25 mins
+Total Time: 407 hrs 28 mins
 
-Python            221 hrs 5 mins  >>>>>>>>>>>>>>-----------   54.27 %
+Python            221 hrs 7 mins  >>>>>>>>>>>>>>-----------   54.28 %
 Terraform         44 hrs 33 mins  >>>----------------------   10.93 %
 Unknown           37 hrs 49 mins  >>-----------------------   09.28 %
 Markdown          22 hrs 12 mins  >------------------------   05.45 %
