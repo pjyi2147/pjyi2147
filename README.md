@@ -25,16 +25,16 @@
 ```rust
 From: 29 September 2024 - To: 24 April 2026
 
-Total Time: 631 hrs 8 mins
+Total Time: 630 hrs 4 mins
 
-Python            318 hrs 44 mins >>>>>>>>>>>>>------------   50.51 %
-Terraform         61 hrs 6 mins   >>-----------------------   09.68 %
-Unknown           56 hrs 25 mins  >>-----------------------   08.94 %
-Json              36 hrs 13 mins  >------------------------   05.74 %
-YAML              35 hrs 51 mins  >------------------------   05.68 %
-Markdown          32 hrs 3 mins   >------------------------   05.08 %
-Bash              29 hrs 9 mins   >------------------------   04.62 %
-Java properties   8 hrs 52 mins   -------------------------   01.40 %
+Python            318 hrs 43 mins >>>>>>>>>>>>>------------   50.59 %
+Terraform         61 hrs 6 mins   >>-----------------------   09.70 %
+Unknown           56 hrs 25 mins  >>-----------------------   08.95 %
+Json              36 hrs 4 mins   >------------------------   05.72 %
+YAML              35 hrs 3 mins   >------------------------   05.56 %
+Markdown          32 hrs 3 mins   >------------------------   05.09 %
+Bash              29 hrs 9 mins   >------------------------   04.63 %
+Java properties   8 hrs 47 mins   -------------------------   01.40 %
 Docker            6 hrs 48 mins   -------------------------   01.08 %
 ```
 
