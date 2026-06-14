@@ -20,13 +20,13 @@ jobs:
           SHOW_TITLE: true # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_year # optional
           LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TIME: false # optional
+          SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: JSON Text # optional
+          IGNORED_LANGUAGES: Unknown JSON Text # optional
 
           ### commit
           COMMIT_MESSAGE: Update Readme with new WakaTime Metrics # optional
@@ -34,3 +34,5 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: Patrick Yi # optional
+          AUTHOR_EMAIL: patrick@patrickyi.xyz # optional
